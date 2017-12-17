@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Call Blocker</string>
+
+    <string name="title">Aviso</string>
+    <string name="msg">Desbloquear este número?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="vazio">Nenhum telefone bloqueado</string>
+    <string name="ok">ok</string>
+</resources>
